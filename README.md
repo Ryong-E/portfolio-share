@@ -15,6 +15,8 @@
 
 📒 [**프로젝트 노션 페이지 보러 가기**](https://www.notion.so/Team-Limit-d1ce8a7ebec14b1dab9354bf4a3ede46) 📒
 
+👉🏻[**시연영상 보러가기**](https://youtu.be/1tsLdRdqWrw)👈🏻
+
 ### 📅 **프로젝트 기간**
 
 2022년 8월 22일 ~ 2022년 9월 3일 
