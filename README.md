@@ -1,4 +1,6 @@
 <img src="https://imgcloud.s3.us-east-1.wasabisys.com/yez78HiM58.png"/>
+<img width="300" alt="Screen Shot 2023-02-08 at 22 45 17" src="https://user-images.githubusercontent.com/96985256/217547259-d2401d93-5fa9-4a12-b48e-19c685918035.png">
+
 
 # 포트폴리오 공유 서비스, [ WePo ]
 
